@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://proyectos.github.mauricioinaz.io/sitemap.xml
+Host: https://proyectos.github.mauricioinaz.io
